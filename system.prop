@@ -111,6 +111,14 @@ bt.max.hfpclient.connections=1
 ro.qualcomm.cabl=2
 ro.vendor.display.cabl=2
 
+#Graphics
+debug.sf.recomputecrop=0
+ro.sf.lcd_density=420
+debug.sf.enable_hwc_vds=1
+
+# touch optimize
+persist.vendor.qti.inputopts.enable=true
+
 #
 # System props for telephony
 # System prop to turn on CdmaLTEPhone always
